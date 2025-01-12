@@ -1,0 +1,2 @@
+boto3 #boto3 is the library which will help us to connect to all the services that are present in AWS BEdrock.
+awscli # AWS CLI (Command Line Interface) is a tool provided by Amazon Web Services (AWS) that allows you to interact with AWS services directly from your terminal or command prompt. 
