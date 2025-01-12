@@ -19,8 +19,8 @@ The project acts as a template to build and test AI interactions, such as:
 * Creative content production.
 ## Usage
 1. Install dependencies:
-* pip install -r requirements.txt
+  * pip install -r requirements.txt
 2. Update the prompt_data variable in llama3.py with your desired prompt.
 3. Run the script:
-* python llama3.py
+  * python llama3.py
 4. View the AI-generated output in the console.
